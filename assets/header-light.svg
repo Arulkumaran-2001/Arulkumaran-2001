@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Arulkumaran R, full stack developer">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1" fill="rgba(15,118,110,0.14)"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.45" stop-color="#f4f3ee" stop-opacity="1"/>
+      <stop offset="1" stop-color="#f4f3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#f4f3ee"/>
+  <rect width="1200" height="300" rx="16" fill="url(#dots)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="15.5" fill="none" stroke="#dcdbd3"/>
+  <g transform="translate(56 52)">
+    <rect width="40" height="40" rx="11" fill="#0f766e"/>
+    <path d="M9.5 28.1 14.9 11.9h2.7l5.4 16.2M11.4 22.7h9.7" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24.5 28.1v-9c0-2.4 1.7-4 4.1-4h1.9" fill="none" stroke="#99f6e4" stroke-width="2.7" stroke-linecap="round"/>
+  </g>
+  <text x="112" y="79" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#6b7975">THIRUVANANTHAPURAM, INDIA  /  ANTCEP CONCEPTS LLP</text>
+  <text x="54" y="182" font-family="Geist, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-3" fill="#1b2725">Arulkumaran R</text>
+  <text x="56" y="238" font-family="Instrument Serif, Georgia, Times New Roman, serif" font-style="italic" font-size="44" fill="#4d5c58">full stack <tspan font-family="Geist, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-style="normal" font-weight="600" letter-spacing="-1.2">developer</tspan></text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6b7975" text-anchor="end">
+    <text x="1144" y="196">Next.js · React · TypeScript</text>
+    <text x="1144" y="222">Supabase · Shopify · WordPress</text>
+    <text x="1144" y="248" fill="#0f766e">Technical SEO · WCAG 2.1 AA</text>
+  </g>
+</svg>
